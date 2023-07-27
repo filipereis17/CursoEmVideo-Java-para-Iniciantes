@@ -1,6 +1,6 @@
 # Curso de Java Básico - Curso em Vídeo
 
-![Java Básico](https://link-para-imagem-do-curso)
+![Java Básico](https://www.cursoemvideo.com/wp-content/uploads/2019/08/java.jpg)
 
 Bem-vindo ao meu **Curso de Java Básico** da plataforma **Curso em Vídeo**! Neste curso, eu aprendi os fundamentos da linguagem de programação Java e desenvolvi habilidades para criar programas simples e interativos.
 
